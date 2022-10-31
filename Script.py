@@ -3,7 +3,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ My Name: {}
-✯ Creator: @TeenFire"""
+✯ Creator: @Mr_Krazy"""
     SOURCE_TXT = """<b>🔆 彡 [ @HEROFLiX ] 彡 🔆</b>"""
     MANUELFILTER_TXT = """Help: <b>FILTERS »</b>
 
